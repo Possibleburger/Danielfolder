@@ -1,4 +1,4 @@
-# Starter folder
+# Daniel folder
 
 ## Overview
 
