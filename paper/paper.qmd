@@ -2,7 +2,7 @@
 title: "Marriage on the Rise"
 
 author: 
-  - Elizabeth Luong
+  - Daniel Xu
 thanks: "Code and data are available at: ."
 date: today
 date-format: long
